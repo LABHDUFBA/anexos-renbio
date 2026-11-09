@@ -1,0 +1,27 @@
+eixo,rotulo,titulo,modelo,candidatos,contexto_adaptativo,contexto_final,modo,densidade,lacunas_significativas,documentos_contexto
+Eixo 1 — Biográfico-teórico,eixo1_1a_caracterizacao_geral,Caracterização geral,gpt-5.5,100,10,10,sparse,0.0337,3,10
+Eixo 1 — Biográfico-teórico,eixo1_1b_funcao_argumentativa,Função argumentativa,gpt-5.5,100,27,27,dense,0.0562,5,27
+Eixo 1 — Biográfico-teórico,eixo1_1c_reducionismo_conceitual,Reducionismo conceitual,gpt-5.5,100,16,16,sparse,0.0225,2,16
+Eixo 1 — Biográfico-teórico,eixo1_1d_tensoes_e_contradicoes,Tensões e contradições,gpt-5.5,100,11,11,sparse,0.0225,2,11
+Eixo 2 — Darwin Awards,eixo2_2a_caracterizacao_geral,Caracterização geral,gpt-5.5,100,10,10,sparse,0.0337,3,10
+Eixo 2 — Darwin Awards,eixo2_2b_funcao_social_do_humor,Função social do humor,gpt-5.5,100,10,10,sparse,0.0337,3,10
+Eixo 2 — Darwin Awards,eixo2_2c_banalizacao_do_nome_darwin,Banalização do nome Darwin,gpt-5.5,100,27,27,dense,0.0899,8,27
+Eixo 2 — Darwin Awards,eixo2_2d_humor_como_portao_de_entrada,Humor como portão de entrada,gpt-5.5,100,10,10,sparse,0.0337,3,10
+Eixo 3 — Criacionista/pseudocientífico,eixo3_3a_caracterizacao_geral,Caracterização geral,gpt-5.5,100,27,27,dense,0.0674,6,27
+Eixo 3 — Criacionista/pseudocientífico,eixo3_3b_narrativa_da_retratacao,Narrativa da retratação,gpt-5.5,100,27,27,dense,0.0562,5,27
+Eixo 3 — Criacionista/pseudocientífico,eixo3_3c_pseudociencia_articulada,Pseudociência articulada,gpt-5.5,100,13,13,sparse,0.0337,3,13
+Eixo 3 — Criacionista/pseudocientífico,eixo3_3d_religiao_e_politica,Religião e política,gpt-5.5,100,27,27,dense,0.0562,5,27
+Eixo 4 — Extrema direita e antissemitismo,eixo4_4a_caracterizacao_geral,Caracterização geral,gpt-5.5,100,15,15,sparse,0.0225,2,15
+Eixo 4 — Extrema direita e antissemitismo,eixo4_4b_referencias_eugenicas_e_racistas,Referências eugênicas e racistas,gpt-5.5,100,10,10,sparse,0.0449,4,10
+Eixo 4 — Extrema direita e antissemitismo,eixo4_4c_antissemitismo_e_conspiracao,Antissemitismo e conspiração,gpt-5.5,100,10,10,sparse,0.0449,4,10
+Eixo 4 — Extrema direita e antissemitismo,eixo4_4d_hitler_e_darwin,Hitler e Darwin,gpt-5.5,100,27,27,dense,0.0787,7,27
+Eixo 4 — Extrema direita e antissemitismo,eixo4_4e_tensoes_internas,Tensões internas,gpt-5.5,100,10,10,sparse,0.0337,3,10
+Eixo 5 — Marx-Darwin,eixo5_5a_caracterizacao_geral,Caracterização geral,gpt-5.5,100,10,10,sparse,0.0449,4,10
+Eixo 5 — Marx-Darwin,eixo5_5b_funcao_politica,Função política,gpt-5.5,100,10,10,sparse,0.0449,4,10
+Eixo 5 — Marx-Darwin,eixo5_5c_materialismo_e_religiao,Materialismo e religião,gpt-5.5,100,10,10,sparse,0.0449,4,10
+Eixo 5 — Marx-Darwin,eixo5_5d_stalin_e_a_natureza_humana,"Stalin e a ""natureza humana""",gpt-5.5,100,10,10,sparse,0.0449,4,10
+Perguntas adicionais de sensibilidade,6a_textos_longos,Argumentos desenvolvidos em textos longos,gpt-5.5,100,10,10,sparse,0.0449,4,10
+Perguntas adicionais de sensibilidade,6b_contestacoes_internas,Contestações e correções internas,gpt-5.5,100,15,15,sparse,0.0337,3,15
+Perguntas adicionais de sensibilidade,6c_marx_darwin_ampliado,Marx-Darwin em textos desenvolvidos,gpt-5.5,100,27,27,dense,0.0674,6,27
+Perguntas adicionais de sensibilidade,6d_antievolucionismo_ampliado,Antievolucionismo em textos desenvolvidos,gpt-5.5,100,27,27,dense,0.0674,6,27
+Perguntas adicionais de sensibilidade,6e_politica_raca_ampliado,Raça e extrema direita em textos desenvolvidos,gpt-5.5,100,27,27,dense,0.0562,5,27

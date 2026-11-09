@@ -1,0 +1,10 @@
+indicador,valor,unidade
+textos_analisados,2718,texto
+ocorrencias_kwic,3314,ocorrencia
+textos_com_kwic,2718,texto
+janela_kwic,5,token
+vocabulario_tfidf,16362,termo
+ocorrencias_darwin_g2,3314,ocorrencia
+tokens_contexto_g2,26517,token
+tokens_fundo_g2,279595,token
+janela_associacoes_g2,5,token
